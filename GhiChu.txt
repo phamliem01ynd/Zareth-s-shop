@@ -1,0 +1,3 @@
+http://localhost:8080/swagger-ui/index.html#     -> Đường dẫn các API
+Mật khẩu tài khoản admin: 123456
+Email tài khoản admin: kaliroseshop2001@gmail.com

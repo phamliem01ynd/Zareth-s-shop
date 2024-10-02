@@ -1,0 +1,71 @@
+
+.khung_right {
+	width: 300px;
+	height: 270px;
+	float: left;
+
+
+}
+.title{
+    margin-top: 10px;
+}
+.khung_left {
+	width: 300px;
+	height: 270px;
+	float: left;
+
+}
+
+.khung {
+	width: 300px;
+	height: 270px;
+	float: left;
+}
+
+.khung_chung {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: stretch;
+	align-content: space-between;
+}
+
+.img {
+	width: 80px;
+	height: 128px;
+	margin-left: 110px;
+}
+
+.ttc p {
+	text-align: center;
+}
+
+.tt h2 {
+	margin-top: -10px;
+	font-weight: bolder;
+	color: #ffc107;
+	
+}
+.gioithieu {
+	width: 100%;
+}
+.bangtg { 
+	width: 300px;
+	border: 1px black;
+}
+.icon-bin{
+	width: 20px;
+	height: 20px;
+}
+.title-header{
+	font-weight: bolder;
+	color: black;
+
+}
+.title-header1{
+	font-weight: bolder;
+	color: black;
+	text-align: center;
+
+}
